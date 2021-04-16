@@ -1,9 +1,9 @@
-## Setup - Installation Dependencies
-Either download the .csv from this github repo or from the UCI Machine Learning Repository, [Breast Cancer Wisconsin (Original) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29)
+## Setup - Dataset - Installation Dependencies
+Either download the .csv from this github repo or from the UCI Machine Learning Repository, [Breast Cancer Wisconsin (Original) Data Set](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29). Afterwards you can load the notebook in Google Colab.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
-
+You can see the results of the analysis here, [breast_cancer_logistic_regression.ipynb](https://github.com/Nightherald/breast-cancer-logistic-regression/blob/main/breast_cancer_logistic_regression.ipynb) . If the notebook isn't already loaded from GitHub, please refresh/reload.
 
 ## Breast Cancer detection using Logistic Regression
 Aim of this notebook is to detect breast cancer by applying a logistic regression model on a real-world dataset and predict whether a tumor is benign (not breast cancer) or malignant (breast cancer) based off its characteristics.
