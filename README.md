@@ -20,7 +20,6 @@ For a better context outside of healthcare here are some real-world applications
 - Customer retention
 - Spam detection
 
----
 ## MIT License
 
 Copyright (c) 2021 Efstratios Marinos
