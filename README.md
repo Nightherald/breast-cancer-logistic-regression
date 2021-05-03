@@ -3,7 +3,7 @@ Either download the .csv from this github repo or from the UCI Machine Learning 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
-You can see the results of the analysis here, [breast_cancer_logistic_regression.ipynb](https://github.com/Nightherald/breast-cancer-logistic-regression/blob/main/breast_cancer_logistic_regression.ipynb) . If the notebook isn't already loaded from GitHub, please refresh/reload.
+You can see the results of the analysis here, [breast_cancer_logistic_regression.ipynb](https://github.com/Nightherald/breast-cancer-logistic-regression/blob/main/breast_cancer_logistic_regression.ipynb) . If the notebook isn't already loaded from GitHub, please refresh/reload. If that does not work, see it online here with the help of [nb-viewer](https://nbviewer.jupyter.org/github/Nightherald/breast-cancer-logistic-regression/blob/main/breast_cancer_logistic_regression.ipynb)
 
 ## Breast Cancer detection using Logistic Regression
 The aim of this notebook is to detect breast cancer by applying a logistic regression model on a real-world dataset and predict whether a tumor is benign (not breast cancer) or malignant (breast cancer) based off its characteristics.
